@@ -116,3 +116,13 @@ This repository contains the whole summary of hands on done by Abhinav Prakash (
 - [RISC-V Base RV32I](https://www.youtube.com/watch?v=bp-Y7nSJa8o)
 - [ Processor Verification](https://www.youtube.com/watch?v=aS3TwoqUWk0)
 - [RISCV CTB Challenges Vyoma](https://www.youtube.com/watch?v=XSPxKUGsnkY)
+
+## Accreditation
+---
+![RISCV_CTB_Hackathon_Certificate_ Abhinav Prakash_pages-to-jpg-0001](https://github.com/abhinavprakash199/RISC-V-CTB-Hackathon/assets/120498080/ace114d9-990f-4eed-8102-c04bdfb34951)
+
+
+## Inquiries
+---
+- Connect with me at [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+
